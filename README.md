@@ -10,7 +10,7 @@ How to use
 -----------------------------
 First, make sure you've got a VR headset of some kind that supports Unity's native VR integration and ensure that you've set it up to operate. Then, ensure you've got a Leap Motion controller mounted to the front of the device. Download the Orion software: https://developer.leapmotion.com/orion and then:
 
-If you want to build from source, grab the source code from here: https://github.com/jcorvinus/VRKeyboard and load it up in Unity (For the record this was built with Unity 5.3.2f1). From there just hit the play button to jump right in, or use the file->build option to build.
+If you want to build from source, grab the source code from here: https://github.com/jcorvinus/VRKeyboard and load it up in Unity (For the record this was built with Unity 5.3.2f1). Import the LeapMotion Orion Unity plugin into the project by double clicking on the `Assets/LeapMotion_CoreAsset_Orion_Beta_4.0.0.unitypackage` package. From there just hit the play button to jump right in, or use the file->build option to build.
 
 If you just want to run the demo, download from the release tab above, or download this file: https://mega.nz/#!Js0xzBQA!y8nRRNKTG60proe03v7KkkMVcOEW2AklVozF1cwjnbE extract it, then run VRKeyboard.exe. There is a menu attached to your left wrist that lets you change character sets and reset the HMD pose.
 
